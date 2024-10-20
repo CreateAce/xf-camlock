@@ -1,3 +1,5 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+
 local cameraLockEnabled = false
 local fixedCameraPitch = 0.0  -- Sabit dikey açı
 
